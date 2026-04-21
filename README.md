@@ -108,3 +108,16 @@ This provides insight into usage patterns across roommates.
 ## Repository Structure
 
 Example structure:
+
+
+---
+
+## Future Improvements
+
+Potential future upgrades include:
+
+- SD card persistent storage
+- Wireless monitoring dashboard
+- Mobile notifications
+- Enclosure housing design
+- Multi-room expansion support
