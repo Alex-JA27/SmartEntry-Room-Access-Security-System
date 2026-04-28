@@ -105,10 +105,32 @@ This provides insight into usage patterns across roommates.
 
 ---
 
-## Repository Structure
 
-Example structure:
+## Future Improvements
 
+Potential future upgrades include:
+
+- SD card persistent storage
+- Wireless monitoring dashboard
+- Mobile notifications
+- Enclosure housing design
+- Multi-room expansion support
+
+
+---
+
+## Team Contributions
+
+Work was divided based on each member’s primary focus area while maintaining collaboration across all system components.
+
+**Alex**  
+Primarily responsible for circuit design and implementation, as well as developing the MicroPython firmware using Thonny for the Raspberry Pi Pico.
+
+**Jenna**  
+Focused on data processing and visualization, including translating system output into MATLAB and managing the text file used for structured data storage.
+
+**Folake**  
+Responsible for designing and developing the project website to present system functionality, documentation, and results.
 
 ---
 
